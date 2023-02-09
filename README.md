@@ -1,4 +1,4 @@
-# WhitListSpotify
+# WhiteListSpotify
 
 
 Viva México Cabrones
